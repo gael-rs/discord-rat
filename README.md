@@ -16,7 +16,7 @@ This project is an **educational tool** designed to demonstrate potential vulner
 This project is created with an **educational and preventive focus**.  
 <div>
 <p align="center">
-    <b>⚠️ It must not be used for malicious purposes. ⚠️ 
+    <b>⚠️ It must not be used for malicious purposes. ⚠️</b> 
 </p>
 </div>
 
