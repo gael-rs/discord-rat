@@ -1,0 +1,6 @@
+discord.py==2.4.0
+opencv-python==4.10.0.84
+PyAutoGUI==0.9.54
+pillow==11.0.0
+pynput==1.7.7
+
